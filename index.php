@@ -32,7 +32,7 @@
             <div class="card card-3">
                 <div class="card-heading"></div>
                 <div class="card-body">
-                    <h2 class="title">Create Event</h2>
+                    <h2 class="title">Create Event This is sample</h2>
                     <form method="POST">
                         <div class="input-group">
                             <input class="input--style-3" type="text" placeholder="Event Name" name="eventname">
